@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GreekArmada">
+    <output-path>$PROJECT_DIR$/out/artifacts/GreekArmada</output-path>
+    <root id="archive" name="GreekArmada.jar">
+      <element id="module-output" name="GreekArmada" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jars/joda-time-2.10.jar" path-in-jar="/" />
+      <element id="directory" name="language">
+        <element id="file-copy" path="$PROJECT_DIR$/language/en.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/language/fr.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

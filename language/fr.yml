@@ -1,0 +1,48 @@
+scoreboard-personal-god: Dieu Personnel
+scoreboard-fidelity: Fidélité
+scoreboard-deaths: Morts
+scoreboard-healpoint: PointDeVie
+scoreboard-armada-god: Dieu Armada
+animation-join-msg: rejoint le puissant monde grec de
+animation-leave-msg: quitté le puissant monde grec de
+animation-kill-msg-one: a été tué par le
+animation-kill-msg-two: de
+animation-spawner-pickaxe-msg: Vous avez reçu une pioche de géniteur!
+armada-error: Tu dois être propriétaire d'une Armada pour utiliser cette commande!
+animation-pray-msg-one-male: a prié pour le grand
+animation-pray-msg-one-female: a prié pour la grande
+animation-pray-msg-two: Les dieux vont répondre bientôt!
+animation-pray-error: Vous devez avoir un Dieu personnel choisi avant de prier!
+animation-roulette-poor-msg: Vous n'avez pas assez d'argent pour parier!
+animation-roulette-bet-msg: Pari
+animation-roulette-cancel-msg: Vous avez annulé la roulette et vos drachmes ont été remboursés.
+animation-sacrifice-wait-msg: Vous devez attendre
+animation-sacrifice-wait-msgtwo: minutes à utiliser à nouveau!
+animation-sacrifice-make-msg: S'il vous plaît faites votre sacrifice!
+animation-sacrifice-msg: S'il vous plaît sacrifiez votre article en le laissant tomber dans la trémie!
+animation-sacrifice-continue-msg: Vous pouvez encore sacrifier à votre dieu!
+animation-sacrifice-god-error: Vous devez choisir un dieu personnel avant de sacrifier!
+animation-permission-error: Vous n'êtes pas autorisé à utiliser cette commande.
+animation-sacrifice-reward-msg: obtenu une récompense pour ce merveilleux sacrifice à la
+armada-atheniajustice-remove-error-msg: Tu ne peux pas supprimer ce membre
+armada-atheniajustice-remove-msg: Tu as été viré de l'Armada
+armada-atheniajustice-remove-msgtwo: a été supprimer de son Armada
+armada-member-not-found-msg: Le membre n'a pas été trouver dans ton Armada
+armada-must-be-opormod-msg: Tu dois être le propriétaire ou le modérateur d'une Armada pour utiliser la commande!
+armada-report-thankyou-msg: Merci pour le report. On va revenir vers vous, très rapidement.
+armada-gain-fidelity-msg: Félicitation, tu as jouer pour une heure maintenant, tu obtiens 0.00.1 fidélité!
+armada-war-begun-msg: Une guerre entre
+armada-war-begun-msgtwo: et
+armada-war-begun-msgthree: a commencé!
+armada-war-tie-msg: a eu une égalité dans le glorieux combat avec
+armada-war-won-msg: a eu une victoire glorieuse avec
+armada-war-endmsg: Ils honorent leurs dieux aujourd'hui!
+armada-war-title-won-msg: GAGNANT
+armada-war-title-won-msgtwo: Tu as honoré les dieux ce jour!
+armada-war-title-lost-msg: PERDANT
+armada-war-title-lost-msgtwo: Tu honoreras mieux les dieux un autre jour!
+armada-war-title-draw-msg: égalité
+armada-war-title-join-msg: REJOINS LA GUERRE
+armada-war-title-join-msgtwo: Combat pour
+armada-war-title-deserter-msg: NE SOIS PAS
+armada-war-title-deserter-msgtwo: UN DESERTEUR!

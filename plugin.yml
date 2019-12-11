@@ -1,0 +1,28 @@
+main: com.scorchedcode.darklust.GreekArmada.GreekArmada
+name: GreekArmada
+version: 1.0
+author: Darklust
+depend: [SpaciousLib,DeluxeChat]
+commands:
+    fhelp:
+        usage: "/f help"
+        description: "Lists all commands useable for GreekAramda"
+        permission: greekarmada.help
+    spawnhologram:
+        usage: "/spawnhologram factionkills|playerkills|factionwars|playerlevels"
+        description: "Spawn a hologram that lists the top 10 in the selected list."
+        permission: greekarmada.spawnhologram
+    greekfloating:
+        usage: "/greekfloating <text> <color> OR /greekfloating list OR /greekfloating delete <number>"
+        description: "Create/List/Delete floating text in the color chosen"
+        permission: greekarmada.greekfloating
+permissions:
+    greekarmada.help:
+        description: Grants ability to list commands for GreekArmada
+        default: op
+    greekarmada.spawnhologram:
+        description: Grants ability to create top 10 lists
+        default: op
+    greekarmada.greekfloating:
+        description: Grants ability to create floating text
+        default: op

@@ -1,0 +1,48 @@
+scoreboard-personal-god: God Personal
+scoreboard-fidelity: Fidelity
+scoreboard-deaths: Deaths
+scoreboard-healpoint: HealthPoint
+scoreboard-armada-god: God Armada
+animation-join-msg: joined the powerful greek world of
+animation-leave-msg: left the powerful greek world of
+animation-kill-msg-one: got killed by the
+animation-kill-msg-two: of
+animation-spawner-pickaxe-msg: You have been bestowed a pickaxe of spawner breaking!
+armada-error: You do not have permission to use this command.
+animation-pray-msg-one-male: has prayed to the great
+animation-pray-msg-one-female: has prayed to the great
+animation-pray-msg-two: The Gods will answer soon to that!
+animation-pray-error: You must have a personal God chosen before praying!
+animation-roulette-poor-msg: You do not have enough money to bet!
+animation-roulette-bet-msg: Bet
+animation-roulette-cancel-msg: You've cancelled the roulette and your drachmae has been refunded.
+animation-sacrifice-wait-msg: You must wait
+animation-sacrifice-wait-msgtwo: minutes to use this again!
+animation-sacrifice-make-msg: Please make your sacrifice!
+animation-sacrifice-msg: Please sacrifice your item by dropping it into the hopper!
+animation-sacrifice-continue-msg: You may sacrifice to your god again!
+animation-sacrifice-god-error: You must choose a personal god before sacrificing!
+animation-permission-error: You do not have permission to use this command.
+animation-sacrifice-reward-msg: got a reward for this wonderful sacrifice to the
+armada-atheniajustice-remove-error-msg: You cannot remove this member
+armada-atheniajustice-remove-msg: You have been removed from the Armada.
+armada-atheniajustice-remove-msgtwo: has been removed from your Armada.
+armada-member-not-found-msg: Member was not found in your Armada
+armada-must-be-opormod-msg: You must be the owner or moderator of an Armada to use this commmand!
+armada-report-thankyou-msg: Thanks for the tip! We'll review your report shortly.
+armada-gain-fidelity-msg: Congrats you played for one hour now, you got 0.00.1 fidelity!
+armada-war-begun-msg: A war between
+armada-war-begun-msgtwo: and
+armada-war-begun-msgthree: has begun!
+armada-war-tie-msg: has tied in glorious combat with
+armada-war-won-msg: has won in glorious combat with
+armada-war-endmsg: They honor their gods today!
+armada-war-title-won-msg: WINNER
+armada-war-title-won-msgtwo: You have honored the gods this day!
+armada-war-title-lost-msg: LOSER
+armada-war-title-lost-msgtwo: You must honor your gods another day!
+armada-war-title-draw-msg: DRAW
+armada-war-title-join-msg: JOIN THE WAR
+armada-war-title-join-msgtwo: Fight for
+armada-war-title-deserter-msg: DON'T BE
+armada-war-title-deserter-msgtwo: A DESERTER!
